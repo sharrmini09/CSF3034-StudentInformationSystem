@@ -17,7 +17,7 @@ public class StudentInformationSystem {
         System.out.println("Name: Sharrmini");
         System.out.println("Student ID: S88359 ");
         
-        int mark1 = 45;
+        int mark1 = 48;
         int mark2 = 42;
         int total = mark1 + mark2 ;
         
